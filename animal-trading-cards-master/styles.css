@@ -1,15 +1,17 @@
 /* add your CSS here */
 
 .card {
-  padding: 8px;
+  padding: 10px;
   border: 1px solid #DCDCDC;
-  box-shadow: 5px 8px #DCDCDC;
+  box-shadow: 10px 10px 5px  grey;
   width: 305px;
+  background-color:  	#00b3b3;
 }
 
 .facts {
   border: 1px solid #DCDCDC;
   padding: 8px;
+  background-color: #e6ffff;
 }
  img {
    padding: 5px;
